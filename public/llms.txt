@@ -1,0 +1,87 @@
+# LEO'S.PHOTOGRAFY — Generative Engine Optimization Map
+
+> A sports photography business specializing in capturing dynamic action shots from sporting events, including football and basketball games. The focus is on the energy, movement, and emotion of athletic competition, delivering powerful visual storytelling through the lens.
+
+---
+
+## Pages
+
+### בית
+https://leo-s-photografy-16deabac.zappy5.app
+צילום ספורט מקצועי במפרץ שמנציח את עוצמת התנועה, הרגש והאנרגיה בכל משחק כדורגל וכדורסל. הפוך כל רגע לניצחון ויזואלי עם סוכנות הצילום המובילה.
+
+### שירותים
+https://leo-s-photografy-16deabac.zappy5.app/services
+גלו חבילות צילום ספורט נפחי המותאמות לאירועי כדורגל וכדורסל. מסיקור דינמי ועד עריכת דימויים עוצרי נשימה – שירות שמביא את המגרש אליכם.
+
+### אודות
+https://leo-s-photografy-16deabac.zappy5.app/about
+הכירו את סוכנות צילום הספורט שמאחורי התמונות שמרעידות אצטדיונים. צוות שמתמחה בלכידת רגעי שיא במשחקים ומביא סיפורים ויזואליים בלתי נשכחים.
+
+### צור קשר
+https://leo-s-photografy-16deabac.zappy5.app/contact
+צרו קשר עם חברת צילום הספורט המובילה במפרץ והתחילו לתכנן את הסיקור המושלם למשחק הבא. לחצו כאן להצעת מחיר שתכניס אתכם למגרש אחר.
+
+### תודה על פנייתך | LEO'S.PHOTOGRAFY
+https://leo-s-photografy-16deabac.zappy5.app/thank-you
+LEO'S.PHOTOGRAFY - תודה על פנייתך | LEO'S.PHOTOGRAFY
+
+## Legal & Policy
+
+### Privacy Policy
+https://leo-s-photografy-16deabac.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://leo-s-photografy-16deabac.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://leo-s-photografy-16deabac.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://leo-s-photografy-16deabac.zappy5.app/contact
+- Endpoint: https://leo-s-photografy-16deabac.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About LEO'S.PHOTOGRAFY
+A sports photography business specializing in capturing dynamic action shots from sporting events, including football and basketball games. The focus is on the energy, movement, and emotion of athletic competition, delivering powerful visual storytelling through the lens.
+
+## Services/Products
+- צילום כדורגל
+- צילום כדורסל
+- צילום ספורט
+
+## Target Audience
+- קבוצות ספורט מקצועיות
+- חובבי ספורט חובבים
+- מארגני אירועי ספורט
+
+## Industry
+Sports Photography
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://leo-s-photografy-16deabac.zappy5.app/sitemap.xml
+- Robots: https://leo-s-photografy-16deabac.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://leo-s-photografy-16deabac.zappy5.app/llms-full.txt
