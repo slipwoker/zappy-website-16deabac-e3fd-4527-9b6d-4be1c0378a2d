@@ -1427,6 +1427,38 @@ window.onload = function() {
 })();
 
 
+/* Added Component Script */
+document.addEventListener('DOMContentLoaded', function() {
+  const emailDisplay = document.getElementById('display-email');
+  const phoneDisplay = document.getElementById('display-phone');
+  
+  // Get stored contact details from sessionStorage
+  const storedEmail = sessionStorage.getItem('contact_email');
+  const storedPhone = sessionStorage.getItem('contact_phone');
+  
+  if (storedEmail && emailDisplay) {
+    emailDisplay.textContent = storedEmail;
+  }
+  
+  if (storedPhone && phoneDisplay) {
+    phoneDisplay.textContent = storedPhone;
+  }
+  
+  // Add subtle entrance animation
+  const card = document.querySelector('.confirmation-card');
+  if (card) {
+    card.style.opacity = '0';
+    card.style.transform = 'translateY(20px)';
+    card.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+    
+    requestAnimationFrame(function() {
+      card.style.opacity = '1';
+      card.style.transform = 'translateY(0)';
+    });
+  }
+});
+
+
 /* ZAPPY_PUBLISHED_LIGHTBOX_RUNTIME */
 (function(){
   try {
