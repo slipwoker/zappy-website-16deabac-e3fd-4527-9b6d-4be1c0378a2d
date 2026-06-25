@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://example.com
+https://leo-s-photografy.zappy5.app
 צילום ספורט מקצועי במפרץ שמנציח את עוצמת התנועה, הרגש והאנרגיה בכל משחק כדורגל וכדורסל. הפוך כל רגע לניצחון ויזואלי עם סוכנות הצילום המובילה.
 
 ### שירותים
-https://example.com/services
+https://leo-s-photografy.zappy5.app/services
 גלו חבילות צילום ספורט נפחי המותאמות לאירועי כדורגל וכדורסל. מסיקור דינמי ועד עריכת דימויים עוצרי נשימה – שירות שמביא את המגרש אליכם.
 
 ### אודות
-https://example.com/about
+https://leo-s-photografy.zappy5.app/about
 הכירו את סוכנות צילום הספורט שמאחורי התמונות שמרעידות אצטדיונים. צוות שמתמחה בלכידת רגעי שיא במשחקים ומביא סיפורים ויזואליים בלתי נשכחים.
 
 ### צור קשר
-https://example.com/contact
+https://leo-s-photografy.zappy5.app/contact
 צרו קשר עם חברת צילום הספורט המובילה במפרץ והתחילו לתכנן את הסיקור המושלם למשחק הבא. לחצו כאן להצעת מחיר שתכניס אתכם למגרש אחר.
 
 ### תודה על פנייתך | LEO'S.PHOTOGRAFY
-https://example.com/thank-you
+https://leo-s-photografy.zappy5.app/thank-you
 LEO'S.PHOTOGRAFY - תודה על פנייתך | LEO'S.PHOTOGRAFY
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://leo-s-photografy.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://leo-s-photografy.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://leo-s-photografy.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -49,8 +49,8 @@ Information about WCAG compliance and accessibility features.
 - Phone (tel): tel:0525840500
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://leo-s-photografy.zappy5.app/contact
+- Endpoint: https://leo-s-photografy.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -84,6 +84,6 @@ Sports Photography
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://leo-s-photografy.zappy5.app/sitemap.xml
+- Robots: https://leo-s-photografy.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://leo-s-photografy.zappy5.app/llms-full.txt
